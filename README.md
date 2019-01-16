@@ -67,6 +67,12 @@ Images look like links with an ! in front, for example, an external image can be
 
 ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
 
+## Displaying My Image
+
+My uploaded image is
+
+![Hosted image](https://github.com/venkateshkunduru123/working-with-markdown/blob/master/pexels-photo-1108099.jpeg)
+
 ## Paragraphs
 
 Lines directly below one another will wrap into a single paragraph. 
