@@ -71,7 +71,7 @@ Images look like links with an ! in front, for example, an external image can be
 
 My uploaded image is
 
-![Hosted image](https://github.com/venkateshkunduru123/working-with-markdown/blob/master/pexels-photo-1108099.jpeg)
+![Hosted image](https://github.com/venkateshkunduru123/working-with-markdown/blob/master/pexels-photo-1108099.jpeg "I love my Pets")
 
 ## Paragraphs
 
