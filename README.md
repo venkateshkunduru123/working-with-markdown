@@ -90,8 +90,10 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ##  About
 
-Denise Case
+Venkatesh Kunduru
 
-dcase@nwmissouri.edu
+S534845@nwmissouri.edu
 
 ##  New Section
+
+This is new section.
